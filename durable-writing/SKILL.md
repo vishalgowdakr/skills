@@ -22,6 +22,13 @@ this; never assume the reader was in the room.
    session shorthand.
    Weak: "validated at layer 3." Anchored: "validated where the request is parsed."
    Weak: "a stage-2 item." Anchored: the work itself ("weekly error report").
+4. **Sparse sentences, positive actions.** One idea per sentence — the
+   "X, not Y" contrast packs two judgments into one line and reads dense.
+   State what to do; cut the rejected half unless omitting it misleads.
+   Weak: "Fix the lookup, not the data."
+   Anchored: "Fix the receiving lookup; it returns ambiguous matches."
+   Weak: "Do NOT post $49.68."
+   Anchored: "Leave the $49.68 unposted. The posted $110.37 already equals the net."
 
 ## Done when
 
