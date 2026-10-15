@@ -42,7 +42,9 @@ Self-review misses what familiarity hides. For reports, runbooks, handoffs —
 anything where a stranger must act — hand the text to a reviewer with no
 thread context (a subagent, or a second pass with the thread covered) and one
 instruction: identify each observed failure, verify why it is a failure, and
-execute each stated next action, using only this document. Fix every gap it
-finds, or mark the exact pull that closes it. One round suffices; repeat only
-if the fixes added new claims. Routine comments skip this — the self-check
-above is their bar.
+confirm each stated next action is executable from this document alone
+(locate the evidence, recompute the numbers, trace each identifier).
+Verification only: the reviewer reads, never writes — no merges, posts,
+messages, or state changes. Fix every gap it finds, or mark the exact pull
+that closes it. One round suffices; repeat only if the fixes added new
+claims. Routine comments skip this — the self-check above is their bar.
