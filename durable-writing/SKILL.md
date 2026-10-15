@@ -35,3 +35,14 @@ this; never assume the reader was in the room.
 List every proper noun, date, ticket number, and methodology term in the text;
 each is defined in place or cut. Then cover the thread and re-read: anything
 still needing it dies. Done = zero unaccounted names, cold parse clean.
+
+## Cold review (for text others will act on)
+
+Self-review misses what familiarity hides. For reports, runbooks, handoffs —
+anything where a stranger must act — hand the text to a reviewer with no
+thread context (a subagent, or a second pass with the thread covered) and one
+instruction: identify each observed failure, verify why it is a failure, and
+execute each stated next action, using only this document. Fix every gap it
+finds, or mark the exact pull that closes it. One round suffices; repeat only
+if the fixes added new claims. Routine comments skip this — the self-check
+above is their bar.
