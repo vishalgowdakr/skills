@@ -7,7 +7,7 @@ Write _anchored_ text: every proper noun defined in place or replaced by its
 mechanism, so the sentence parses with the thread covered. The writer owns
 this; never assume the reader was in the room.
 
-## Three practices
+## Four practices
 
 1. **Name the mechanism, not the moment.** A date explains when, never why.
    Weak: "(decided Tuesday) retry three times."
